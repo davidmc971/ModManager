@@ -18,13 +18,13 @@
     <Fluffy.ModManager.PressXtoCopyToClipboard>Drücke 'Steuerung + C' um die Mod-Liste in die Zwischenablage zu kopieren.</Fluffy.ModManager.PressXtoCopyToClipboard>
 
     <!-- issues -->
-    <Fluffy.ModManager.InvalidVersion>Fehlerhafter Versions String: "{0}".</Fluffy.ModManager.InvalidVersion>
-    <Fluffy.ModManager.DifferentVersion>Falsche Spiel Version. Aktuelle Version ist {2}, aber {0} ist für Version {1}.</Fluffy.ModManager.DifferentVersion>
-    <Fluffy.ModManager.DifferentBuild>Anderer Game Build. Aktueller Build ist {2}, aber {0} spezifiziert Build {1} als Zielversion.</Fluffy.ModManager.DifferentBuild>
+    <Fluffy.ModManager.InvalidVersion>Fehlerhafter Versions-String: "{0}".</Fluffy.ModManager.InvalidVersion>
+    <Fluffy.ModManager.DifferentVersion>Falsche Spiel-Version. Aktuelle Version ist {2}, aber {0} ist für Version {1}.</Fluffy.ModManager.DifferentVersion>
+    <Fluffy.ModManager.DifferentBuild>Anderer Game-Build. Aktueller Build ist {2}, aber {0} spezifiziert Build {1} als Zielversion.</Fluffy.ModManager.DifferentBuild>
     <Fluffy.ModManager.CurrentVersion>Versionen stimmen überein</Fluffy.ModManager.CurrentVersion>
     <Fluffy.ModManager.UpdateAvailable>Ein Update auf Version {1} ist verfügbar (aktuell: {0}).</Fluffy.ModManager.UpdateAvailable>
-    <Fluffy.ModManager.MissingMod>{0} (Id: {1}) ist nicht installiert, und wird ignoriert werden.</Fluffy.ModManager.MissingMod>
-    <Fluffy.ModManager.CoreNotFirst>'Core' sollte der erste geladene mod sein.</Fluffy.ModManager.CoreNotFirst>
+    <Fluffy.ModManager.MissingMod>{0} (Id: {1}) ist nicht installiert und wird ignoriert werden.</Fluffy.ModManager.MissingMod>
+    <Fluffy.ModManager.CoreNotFirst>'Core' sollte der erste geladene Mod sein.</Fluffy.ModManager.CoreNotFirst>
     <Fluffy.ModManager.DependencyUnknownVersion>Hängt von {0} ab, aber die Version ist unbekannt.</Fluffy.ModManager.DependencyUnknownVersion>
     <Fluffy.ModManager.DependencyNotFound>Hängt von {0} ab, welches nicht geladen ist.</Fluffy.ModManager.DependencyNotFound>
     <Fluffy.ModManager.DependencyWrongVersion>Hängt von {0} ab, v{1} ist geladen.</Fluffy.ModManager.DependencyWrongVersion>
@@ -46,8 +46,8 @@
     <Fluffy.ModManager.IO.MassRemoveLocalAll>Entferne alle lokalen Kopien</Fluffy.ModManager.IO.MassRemoveLocalAll>
     <Fluffy.ModManager.IO.MassRemoveLocalInactive>Entferne alle inaktiven lokalen Kopien</Fluffy.ModManager.IO.MassRemoveLocalInactive>
     <Fluffy.ModManager.IO.MassRemoveLocalOutdated>Entferne alle veralteten lokalen Kopien</Fluffy.ModManager.IO.MassRemoveLocalOutdated>
-    <Fluffy.ModManager.IO.MassRemoveLocalConfirm>Sie sind dabei {0} lokale Kopien of mods. Sind Sie sicher, dass Sie weitermachen wollen?\n\nBetroffene Mods:\n{1}</Fluffy.ModManager.IO.MassRemoveLocalConfirm>
-    <Fluffy.ModManager.ModSettings>Öffne Mod Einstellungen</Fluffy.ModManager.ModSettings>    
+    <Fluffy.ModManager.IO.MassRemoveLocalConfirm>Sie sind dabei {0} lokale Kopien von Mods zu löschen.\nSind Sie sicher, dass Sie weitermachen wollen?\n\nBetroffene Mods:\n{1}</Fluffy.ModManager.IO.MassRemoveLocalConfirm>
+    <Fluffy.ModManager.ModSettings>Öffne Mod-Einstellungen</Fluffy.ModManager.ModSettings>    
 
     <Fluffy.ModManager.ModListsTip>Erstelle, wende an und verwalte Mod-Listen.\n\nMod-Listen erlauben es Ihnen, schnell zwischen verschiedenen Mods zu wechseln.</Fluffy.ModManager.ModListsTip>
     <Fluffy.ModManager.LoadModList>Lade Mod-Liste</Fluffy.ModManager.LoadModList>
